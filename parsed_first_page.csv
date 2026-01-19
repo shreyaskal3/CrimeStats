@@ -1,0 +1,15 @@
+pdf_file,sr_no,crime_head,current_month_reg,current_month_det,previous_month_reg,previous_month_det,current_year_reg,current_year_det,current_year_det_pct,previous_year_reg,previous_year_det,previous_year_det_pct,diff_reg_sign,diff_reg_value
+1.pdf,1,Murder,10,9,7,4,10,9,90,13,12,92,-,3
+1.pdf,2,Att.to.C.Murder,23,21,16,12,23,21,91,19,17,89,+,4
+1.pdf,3,Dacoity,1,0,4,3,1,0,0,1,1,100,+,0
+1.pdf,4,Robbery (Excluding Chain Snatching)88,65,84,55,88,65,74,74,45,61,,+,14
+1.pdf,5,Robbery -Chain Snatching,10,5,12,4,10,5,50,14,7,50,-,4
+1.pdf,6,Extortion,20,16,21,15,20,16,80,9,8,89,+,11
+1.pdf,7,H.B.T.Day / Night,220,73,205,49,220,73,33,214,55,26,+,6
+1.pdf,8,Thefts,539,144,643,126,539,144,27,586,137,23,-,47
+1.pdf,9,M.V.Thefts.,344,53,376,44,344,53,15,272,43,16,+,72
+1.pdf,10,Hurt,481,361,377,272,481,361,75,380,278,73,+,101
+1.pdf,11,Riots.,101,60,38,27,101,60,59,34,23,68,+,67
+1.pdf,12,Rape,64,49,57,50,64,49,77,35,26,74,+,29
+1.pdf,13,Molestaion,240,164,224,157,240,164,68,193,137,71,+,47
+1.pdf,14,Other I.P.C.,"1,484",766,"2,186","1,433","1,484",766,52,"1,289",643,50,+,195
