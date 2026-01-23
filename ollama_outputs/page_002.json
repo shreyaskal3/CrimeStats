@@ -1,0 +1,37 @@
+{
+  "title": "Bank Statement",
+  "jurisdiction": "HSBC",
+  "periods": {
+    "current_month": "1 September to 30 September 2025"
+  },
+  "columns": ["Date", "Paym ent type and details", "Paid out", "Paid in", "Balance"],
+  "rows": [
+    {
+      "sr_no": 1,
+      "account_name": "47 High Street Bromsgrove Worcestershire B61 8AW",
+      "sortcode": "Handling Concepts Limited",
+      "account_number": "40-15-07",
+      "paid_out": 17,
+      "paid_in": 51849980,
+      "balance": 13309095
+    },
+    {
+      "sr_no": 2,
+      "account_name": "Account Name",
+      "sortcode": "Sortcode",
+      "account_number": "Account Number Sheet Number",
+      "paid_out": 0,
+      "paid_in": 0,
+      "balance": 12724271
+    },
+    {
+      "sr_no": 3,
+      "account_name": "Contact tel 03457 60 60 60",
+      "sortcode": "Text phone 03457 125 563",
+      "account_number": "www.hsbc.co.uk",
+      "paid_out": 0,
+      "paid_in": 0,
+      "balance": 0
+    }
+  ]
+}

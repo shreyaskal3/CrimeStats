@@ -1,0 +1,76 @@
+{
+  "title": "Statement",
+  "columns": ["Date", "Payment type and details", "Paid out", "Paid in", "Balance"],
+  "rows": [
+    {
+      "Date": "04 Sep 25",
+      "Payment type and details": "HMRC NDDS",
+      "Paid out": 5043,
+      "Paid in": 1200,
+      "Balance": 52838
+    },
+    {
+      "Date": "05 Sep 25",
+      "Payment type and details": "ROYAL LONDON",
+      "Paid out": 15,
+      "Paid in": 76,
+      "Balance": 52632
+    },
+    {
+      "Date": "08 Sep 25",
+      "Payment type and details": "COMMERCIAL CARD",
+      "Paid out": 7632,
+      "Paid in": 403,
+      "Balance": 52838
+    },
+    {
+      "Date": "09 Sep 25",
+      "Payment type and details": "ALPHABET GB",
+      "Paid out": 14,
+      "Paid in": 52632,
+      "Balance": 52632
+    },
+    {
+      "Date": "10 Sep 25",
+      "Payment type and details": "ARVAL UK LTD",
+      "Paid out": 66,
+      "Paid in": 52967,
+      "Balance": 52967
+    },
+    {
+      "Date": "11 Sep 25",
+      "Payment type and details": "SURFACE TRANSFORMS",
+      "Paid out": 6488,
+      "Paid in": 54561,
+      "Balance": 54561
+    },
+    {
+      "Date": "12 Sep 25",
+      "Payment type and details": "CLOSE-ELEVEN",
+      "Paid out": 3635,
+      "Paid in": 34312,
+      "Balance": 34312
+    },
+    {
+      "Date": "15 Sep 25",
+      "Payment type and details": "MS MIDLANDS BBT",
+      "Paid out": 1398,
+      "Paid in": 35403,
+      "Balance": 35403
+    },
+    {
+      "Date": "16 Sep 25",
+      "Payment type and details": "ALPHABET GB",
+      "Paid out": 513,
+      "Paid in": 67693,
+      "Balance": 67693
+    },
+    {
+      "Date": "Balance Brought Forward",
+      "Payment type and details": "Balance Carried Forward",
+      "Paid out": 60123,
+      "Paid in": 72578,
+      "Balance": 72578
+    }
+  ]
+}

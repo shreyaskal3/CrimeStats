@@ -1,0 +1,301 @@
+{
+  "title": "Your BUSINESS CURRENT ACCOUNT details",
+  "jurisdiction": "Worcestershire",
+  "periods": [
+    "1 September to 30 September 2025"
+  ],
+  "columns": [
+    "Date",
+    "Paym ent type and details",
+    "Paid out",
+    "Paid in",
+    "Balance"
+  ],
+  "rows": [
+    {
+      "sr_no": 1,
+      "crime_head": "DD",
+      "current_month_R": 34322,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 2,
+      "crime_head": "DD",
+      "current_month_R": 104374,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 3,
+      "crime_head": "SO",
+      "current_month_R": 10800,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 4,
+      "crime_head": "71,083.15",
+      "current_month_R": 7108315,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 5,
+      "crime_head": "17 Sep 25",
+      "current_month_R": 0,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 6,
+      "crime_head": "CR",
+      "current_month_R": 373968,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 7,
+      "crime_head": "BP",
+      "current_month_R": 43890,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 8,
+      "crime_head": "BP",
+      "current_month_R": 6000,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 9,
+      "crime_head": "CR",
+      "current_month_R": 3097600,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 10,
+      "crime_head": "DR",
+      "current_month_R": 6000,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 11,
+      "crime_head": "10,000",
+      "current_month_R": 10000,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 12,
+      "crime_head": "10,000",
+      "current_month_R": 10000,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 13,
+      "crime_head": "10,000",
+      "current_month_R": 10000,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 14,
+      "crime_head": "10,000",
+      "current_month_R": 10000,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    },
+    {
+      "sr_no": 15,
+      "crime_head": "10,000",
+      "current_month_R": 10000,
+      "current_month_D": 0,
+      "previous_month_R": 0,
+      "previous_month_D": 0,
+      "current_year_R": 0,
+      "current_year_D": 0,
+      "previous_year_R": 0,
+      "previous_year_D": 0,
+      "pct_detection_computed": 0,
+      "pct_detection_given": 0,
+      "difference_in_reg": {
+        "sign": 0,
+        "value": 0,
+        "computed_current_minus_previous_year_R": 0
+      }
+    }
+  ]
+}

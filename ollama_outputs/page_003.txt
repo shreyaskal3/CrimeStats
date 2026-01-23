@@ -1,0 +1,51 @@
+```json
+{
+  "title": "COMPARATIVE STATEMENT OF N.D.P.S. CASES",
+  "scope": "MUMBAI",
+  "columns": ["Cases", "P.A", "Qty (Kg)", "Qty (Gram)", "Qty (Mili Gram)", "Value"],
+  "rows": [
+    {
+      "heroin": {
+        "cases": 1,
+        "pa": 1,
+        "qty": {
+          "kg": 272,
+          "gram": 0,
+          "milli_gram": 0
+        },
+        "value": 2720000
+      },
+      "charas": {
+        "cases": 2,
+        "pa": 2,
+        "qty": {
+          "kg": 2,
+          "gram": 500,
+          "milli_gram": 0
+        },
+        "value": 875000
+      },
+      "cocaine": {
+        "cases": 3,
+        "pa": 3,
+        "qty": {
+          "kg": 225,
+          "gram": 1110000,
+          "milli_gram": 0
+        },
+        "value": 1110000
+      },
+      "ganja": {
+        "cases": 8,
+        "pa": 9,
+        "qty": {
+          "kg": 142,
+          "gram": 1848,
+          "milli_gram": 2552030
+        },
+        "value": 2552030
+      }
+    }
+  ]
+}
+```
