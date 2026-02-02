@@ -1,0 +1,15 @@
+crime_code,crime_name,month_end_date,registered
+1,Murder,2017-01-01,5856
+2,Att.to.C.Murder,2017-01-01,7869
+3,Dacoity,2017-01-01,1110
+4,Robbery (Excluding Chain Snatching),2017-01-01,343253
+5,Robbery -Chain Snatching,2017-01-01,7132
+6,Extortion,2017-01-01,6352
+7,H.B.T.Day / Night,2017-01-01,966356
+8,Thefts,2017-01-01,2752693
+9,M.V.Thefts.,2017-01-01,1177291
+10,Hurt,2017-01-01,19591599
+11,Riots.,2017-01-01,175135
+12,Rape,2017-01-01,275224
+13,Molestaion,2017-01-01,894662
+14,Other I.P.C.,2017-01-01,64953777

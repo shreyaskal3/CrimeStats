@@ -1,0 +1,29 @@
+crime_code,crime_name,month_end_date,detected,registered
+1,Murder,2018-07-31,11,13
+2,Att.to.C.Murder,2018-07-31,13,15
+3,Dacoity,2018-07-31,2,2
+4,Robbery (Excluding Chain Snatching),2018-07-31,60,78
+5,Robbery -Chain Snatching,2018-07-31,4,9
+6,Extortion,2018-07-31,10,17
+7,H.B.T.Day / Night,2018-07-31,46,203
+8,Thefts,2018-07-31,136,502
+9,M.V.Thefts.,2018-07-31,34,217
+10,Hurt,2018-07-31,291,380
+11,Riots.,2018-07-31,21,26
+12,Rape,2018-07-31,62,74
+13,Molestaion,2018-07-31,114,171
+14,Other I.P.C.,2018-07-31,746,1256
+1,Murder,2018-08-31,9,9
+2,Att.to.C.Murder,2018-08-31,27,27
+3,Dacoity,2018-08-31,2,2
+4,Robbery (Excluding Chain Snatching),2018-08-31,69,85
+5,Robbery -Chain Snatching,2018-08-31,7,19
+6,Extortion,2018-08-31,20,27
+7,H.B.T.Day / Night,2018-08-31,52,207
+8,Thefts,2018-08-31,126,539
+9,M.V.Thefts.,2018-08-31,37,230
+10,Hurt,2018-08-31,277,394
+11,Riots.,2018-08-31,38,44
+12,Rape,2018-08-31,51,62
+13,Molestaion,2018-08-31,137,198
+14,Other I.P.C.,2018-08-31,822,1415
