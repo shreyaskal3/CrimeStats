@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 merged_tables/
 merged_tables_page1/
+extracted_tables/
+converted_page1/

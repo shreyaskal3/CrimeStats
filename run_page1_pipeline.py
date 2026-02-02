@@ -18,7 +18,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(
         description="Run layout analysis and extract tables for all PDFs, then merge page 1 tables."
     )
-    parser.add_argument("--pdf-dir", default="crimepdf1")
+    parser.add_argument("--pdf-dir", default="crime_pdfs")
     parser.add_argument("--layout-dir", default="layout_outputs")
     parser.add_argument("--extracted-root", default="extracted_tables")
     parser.add_argument("--converted-dir", default="converted_page1")
@@ -81,8 +81,10 @@ def main() -> int:
                 env=env,
             )
         except subprocess.CalledProcessError as exc:
-            print(f"convertcsv.py failed for {input_csv} (exit {exc.returncode}). Skipping.")
-            continue
+            raise RuntimeError(
+                f"convertcsv.py failed for {input_csv} (exit {exc.returncode})."
+            ) from exc
+            
 
     print(f"Done. Converted outputs: {converted_dir}")
     return 0
